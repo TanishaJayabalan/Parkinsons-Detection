@@ -72,6 +72,19 @@ pip install -r requirements.txt
 ```bash
 streamlit run mix.py
 ```
+
+---
+
+## 📁 Dataset & Resources
+
+The `archive/` folder contains sample data to help you get started or test the application:
+
+- 🌀 `drawings/`: Includes example spiral and wave images for handwriting analysis.
+- 🔊 `HC_AH/`: Contains **healthy control** (HC) voice recordings.
+- 🔊 `PD_AH/`: Contains **Parkinson’s Disease** (PD) sample voice recordings.
+
+You can use these for demo purposes, benchmarking, or to understand what kind of input the app expects.
+
 ---
 
 ## 📎 Notes
